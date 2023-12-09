@@ -21,12 +21,12 @@ var taskArray = [{
     "content": [{
         "uid": 0,
         "isCompleted": "false",
-        "title": "Give me a star ✨",
-        "desc": "This is an example",
+        "title": "Kaisi hai kudiye ✨",
+        "desc": "Have a productive day",
         "timestart": "12:00",
         "timeend": "13:00",
         "time": "Infinity",
-        "category": "entertainment"
+        "category": "Productivity"
     }]
 }];
 
